@@ -1,9 +1,4 @@
-console.log("Hi - 1");
+console.log('Hello World');
 
-setTimeout(greet, 0);
-
-console.log("Hi - 2");
-
-function greet() {
-  console.log("hello world!");
-}
+console.log(56+4);
+// 60 //
